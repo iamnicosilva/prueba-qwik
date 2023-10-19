@@ -45,9 +45,9 @@ export default component$(() => {
   return (
     <div class="container container-purple container-center">
       <h2>
-        Time for a
+        Aprendiendo
         <br />
-        <span class="highlight">qwik intro</span>?
+        <span class="highlight">Qwik =)</span>
       </h2>
       <div class={styles.gettingstarted}>
         <div
